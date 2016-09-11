@@ -12,6 +12,7 @@ gem 'sdoc', '~> 0.4.0', group: :doc
 # Book
 gem 'devise'
 gem 'bower-rails'
+gem 'faker'
 
 group :development, :test do
   gem 'byebug'
